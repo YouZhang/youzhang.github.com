@@ -1,7 +1,7 @@
 ---
 layout: page
 title: You Zhang's Blog
-tagline: From SHU AMD ALU
+tagline: From SHU Intel AMD ALU
 ---
 {% include JB/setup %}
 
